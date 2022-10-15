@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+}
+.pages{
+    display: flex;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.busket{
+    display: flex;
+}
+.user{
+    display: flex;
+}
